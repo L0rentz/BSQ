@@ -1,7 +1,6 @@
 # BSQ
 
 - **Binary name:** bsq
-- **Repository name:** Dante
 - **Language:** C
 - **Group Size:** 1
 - **Compilation:** via Makefile, including re, clean and fclean rules
