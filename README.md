@@ -1,13 +1,21 @@
-# Usage
+# BSQ
+
+- **Binary name:** bsq
+- **Repository name:** Dante
+- **Language:** C
+- **Group Size:** 1
+- **Compilation:** via Makefile, including re, clean and fclean rules
+
+## Usage
 
 ./bsq [map] -> To launch the program.
 
-# Goal
+## Goal
 
 The goal of this project is to find the biggest square in a map given in argument. '.' is a free space. 'o' is an obstacle.
 Only theese two caracters can be on the map.
 
-# Example
+## Example
 
 Example of a map :
 
